@@ -8,3 +8,17 @@
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 30px;
 }
+.review-link{
+    text-decoration: none;
+}
+.btn-review{
+    background-color: #FF9900;
+    width: 90%;
+    height: 56px;
+    font-size: 21px;
+    text-decoration: none;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
